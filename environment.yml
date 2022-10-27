@@ -1,0 +1,13 @@
+name: speedy_physics_compare
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - xarray
+  - netcdf4
+  - jupyterlab
+  - matplotlib
+  - pip
+  - julia
+  - pip:
+      - julia # for PyJulia

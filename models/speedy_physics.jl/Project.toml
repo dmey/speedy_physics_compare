@@ -1,0 +1,4 @@
+name = "speedy_physics"
+uuid = "7de03897-5ace-4f68-8756-84b07267c2a2"
+authors = ["dmey <dmey@users.noreply.github.com>"]
+version = "0.1.0"
