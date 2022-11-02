@@ -1,3 +1,4 @@
 module speedy_physics
-    include("radiation.jl")
+    include("shortwave_radiation.jl")
+    include("longwave_radiation.jl")
 end

@@ -1,3 +1,6 @@
 [submodule "models/speedy_physics.f90"]
 	path = models/speedy_physics.f90
+	url = https://github.com/samhatfield/speedy_physics.f90
+[submodule "models/speedy_physics.f77"]
+	path = models/speedy_physics.f77
 	url = https://github.com/dmey/speedy_physics.f90
